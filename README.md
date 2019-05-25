@@ -1,2 +1,2 @@
 # Hello-World
-Created by Amadu Kamara
+Created by Amadu Kamara.
